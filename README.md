@@ -19,8 +19,9 @@ Here are some ideas to get you started:
   &nbsp; Welcome to 西贝's profile! &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=qingyunjianying)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=qingyunjianying" />
+</div>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>

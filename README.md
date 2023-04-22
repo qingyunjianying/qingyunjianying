@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 </h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=qingyunjianying)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />

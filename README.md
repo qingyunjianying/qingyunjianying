@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3EE8AE&center=true&vCenter=true&multiline=true&width=435&lines=%E8%8C%97%E7%A6%BE%E7%A5%9D%E4%BD%A0%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB)](https://git.io/typing-svg)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=qingyunjianying&theme=cotton candy)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=qingyunjianying)](https://github.com/ashutosh00710/github-readme-activity-graph)

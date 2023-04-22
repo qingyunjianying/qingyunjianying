@@ -1,4 +1,4 @@
-### Hi there I'm Qingyun👋
+### Hi there I'm 西贝👋
 
 <!--
 **qingyunjianying/qingyunjianying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   &nbsp; Welcome to 西贝's profile! &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3EE8AE&center=true&vCenter=true&multiline=true&width=435&lines=%E8%8C%97%E7%A6%BE%E7%A5%9D%E4%BD%A0%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB)](https://git.io/typing-svg)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=qingyunjianying)](https://github.com/ashutosh00710/github-readme-activity-graph)

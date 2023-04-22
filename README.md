@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=qingyunjianying)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<div align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=qingyunjianying&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>

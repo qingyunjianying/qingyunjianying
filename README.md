@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 <div align="center">
     <img  src="https://visitor-badge.glitch.me/badge?page_id=qingyunjianying" />
 </div>
-<div align="center">
-  <img src="https://assets4.lottiefiles.com/packages/lf20_q4KeH0MSPB.json" />
-</div>
 
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=qingyunjianying&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />

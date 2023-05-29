@@ -19,8 +19,22 @@ Here are some ideas to get you started:
   &nbsp; Welcome to 西贝's profile! &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
-<div align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=qingyunjianying" />
+  <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/"><img src="#" /></a>&emsp;
+    <a href="https://twitter.com/sun0225SUN/"><img src="#" /></a>&emsp;
+    <a href="https://www.youtube.com/@sun0225SUN"><img src="#" /></a>&emsp;
+    <a href="https://box.sunguoqi.com/weixin_mp"><img src="#" /></a>&emsp;
+    <a href="https://space.bilibili.com/448488855/"><img src="#" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_50915462/"><img src="#" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="#" /></a>&emsp;
+    <!-- visitor statistics logo 访客数统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 <div align="center">

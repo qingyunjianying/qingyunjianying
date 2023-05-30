@@ -29,11 +29,11 @@ Here are some ideas to get you started:
     <a href="https://blog.csdn.net/weixin_50915462/"><img src="#" /></a>&emsp;
     <a href="https://www.zhihu.com/people/sunguoqi/"><img src="#" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=qingyunjianying&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/qingyunjianying/qingyunjianying/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
 </div>
 

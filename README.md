@@ -25,20 +25,7 @@ Here are some ideas to get you started:
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=qingyunjianying&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-<!--   metrics -->
-<div align="center">
-    <img src="https://metrics.lecoq.io/qingyunjianying?template=classic&config.timezone=Asia%2FShanghai">
-</div>
-<!-- 统计卡片 -->
-<div align="center">
-    <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qingyunjianying&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qingyunjianying&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</div>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/qingyunjianying/qingyunjianying/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=qingyunjianying&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />

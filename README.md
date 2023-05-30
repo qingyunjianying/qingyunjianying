@@ -25,7 +25,9 @@ Here are some ideas to get you started:
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=qingyunjianying&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-![Metrics](https://metrics.lecoq.io/qingyunjianying?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+<div align="center">
+    <img src="https://metrics.lecoq.io/qingyunjianying?template=classic&config.timezone=Asia%2FShanghai">
+</div>
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/qingyunjianying/qingyunjianying/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 

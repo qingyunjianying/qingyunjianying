@@ -21,13 +21,11 @@ Here are some ideas to get you started:
 </h3>
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/"><img src="#" /></a>&emsp;
-    <a href="https://twitter.com/sun0225SUN/"><img src="#" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="#" /></a>&emsp;
-    <a href="https://box.sunguoqi.com/weixin_mp"><img src="#" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="#" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="#" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="#" /></a>&emsp;
+   <span >
+ <img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+ <img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+ <img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+</span>
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=qingyunjianying&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
